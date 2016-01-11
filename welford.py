@@ -13,7 +13,6 @@ This implemenation is modelled after the following acticles:
 """
 
 import math
-# import collections.abc
 from collections.abc import Iterable
 
 class Welford():
